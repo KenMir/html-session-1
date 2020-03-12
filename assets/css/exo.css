@@ -1,0 +1,12 @@
+body{background: grey;}
+
+main{background: white;
+margin: 10% 10%;
+}
+
+span.red{color: red;}
+span.blue{color: blue;}
+span.green{color: green;}
+
+table{border-collapse: collapse;}
+td,th{border: 1px solid black;}
